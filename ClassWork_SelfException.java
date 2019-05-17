@@ -23,16 +23,16 @@ public Cube() {
 }
 
 public Cube(double length) throws CubeException {  // throws CubeException cannot delete
-//***************************************************************/			
-//	if(length > 0)								       	//
-//		this.length = length;						  	//
-//	else												//
-//		throw new CubeException("正立方體邊長不得為0或是負數");	//
-/*****above statement is repeated below "setLength()"***********/
+//***********************************************************************/			
+//	if(length > 0)							//
+//		this.length = length;					//
+//	else								//
+//		throw new CubeException("正立方體邊長不得為0或是負數");   //
+/*****above statement is repeated below "setLength()"*******************/
 	
-//////so that's can change following statement//
-	setLength(length);				  //
-/******************************************/		
+//so that's can change following statement//
+	setLength(length);		//
+/***************************************/		
 }
 
 public double getLength() {
