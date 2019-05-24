@@ -1,6 +1,6 @@
 package xxx;
 
-public class HomeWork02_00385 {
+public class Homework02_00385 {
 
 	public static void main(String[] args){
 	
