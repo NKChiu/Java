@@ -1,6 +1,6 @@
 package xxx;
 
-public class Homework01_00385 {
+public class HomeWork01_00385 {
 	public static void main(String[] args) {
  System.out.println("============= 1 ===============");
  System.out.println("Q: Please  calculate 12+6 and 12*6:");
